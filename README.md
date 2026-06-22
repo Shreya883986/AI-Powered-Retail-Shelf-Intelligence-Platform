@@ -223,7 +223,7 @@ AI-Powered Retail Shelf Intelligence Platform
 
 ## Revenue Dashboard
 
-![Revenue Dashboard](screenshots/dashboard/revenue_dashboard.png)
+![Revenue Dashboard](screenshots/dashboard/inventory_analysis.png)
 
 ---
 
