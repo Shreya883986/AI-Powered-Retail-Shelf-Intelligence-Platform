@@ -233,7 +233,7 @@ AI-Powered Retail Shelf Intelligence Platform
 
 Predicts future product demand using historical sales data.
 
-![Demand Forecasting](screenshots/models_ss/demand_forecasting_output.png)
+![Demand Forecasting](screenshots/models%20ss/demand_forecasting_output.png)
 
 ---
 
@@ -245,13 +245,13 @@ Classifies inventory into:
 * Low Stock
 * Critical Stock
 
-![Inventory Classification](screenshots/models_ss/inventory_classifier_output.png)
+![Inventory Classification](screenshots/models%20ss/inventory_classifier_output.png)
 
 ---
 
 ## Model Evaluation
 
-![Model Evaluation](screenshots/models_ss/model_evaluation.png)
+![Model Evaluation](screenshots/models%20ss/model_evaluation.png)
 
 ---
 
