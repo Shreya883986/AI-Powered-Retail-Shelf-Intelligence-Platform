@@ -259,19 +259,19 @@ Classifies inventory into:
 
 ## Swagger Documentation
 
-![Swagger](screenshots/api/swagger_home.png)
+![Swagger](screenshots/api%20ss/swagger_home.png)
 
 ---
 
 ## Demand Prediction Endpoint
 
-![Predict Demand](screenshots/api/predict_demand.png)
+![Predict Demand](screenshots/api%20ss/predict_demand.png)
 
 ---
 
 ## Stock Prediction Endpoint
 
-![Predict Stock](screenshots/api/predict_stock.png)
+![Predict Stock](screenshots/api%20ss/predict_stock.png)
 
 ---
 
