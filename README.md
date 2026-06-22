@@ -75,9 +75,7 @@ This platform provides a data-driven solution to identify, monitor, and predict 
 
 # 🏗️ System Architecture
 
-<p align="center">
-  <img src="screenshots/architecture/retail_shelf_architecture.png" width="1000">
-</p>
+![Project Architecture](screenshots/architecture/project_architecture_diagram.png)
 
 ### Workflow
 
