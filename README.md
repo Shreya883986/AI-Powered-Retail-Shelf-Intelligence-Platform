@@ -207,7 +207,7 @@ AI-Powered Retail Shelf Intelligence Platform
 
 ## Executive Dashboard
 
-![Executive Dashboard](screenshots/dashboard/executive_dashboard.png)
+![Executive Dashboard](screenshots/dashboard/overview_dashboard.png)
 
 ## Store Performance Dashboard
 
