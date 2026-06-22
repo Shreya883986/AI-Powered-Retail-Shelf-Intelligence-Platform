@@ -1,0 +1,51 @@
+store_id,store_name,city,state,region,store_size,opening_year
+S001,RetailMart Lucknow-1,Lucknow,Uttar Pradesh,North,Large,2017
+S002,RetailMart Mumbai-2,Mumbai,Maharashtra,West,Large,2023
+S003,RetailMart Kolkata-3,Kolkata,West Bengal,East,Large,2023
+S004,RetailMart Hyderabad-4,Hyderabad,Telangana,South,Medium,2024
+S005,RetailMart Hyderabad-5,Hyderabad,Telangana,South,Medium,2018
+S006,RetailMart Kolkata-6,Kolkata,West Bengal,East,Large,2017
+S007,RetailMart Mumbai-7,Mumbai,Maharashtra,West,Large,2015
+S008,RetailMart Lucknow-8,Lucknow,Uttar Pradesh,North,Small,2024
+S009,RetailMart Mumbai-9,Mumbai,Maharashtra,West,Medium,2021
+S010,RetailMart Jaipur-10,Jaipur,Rajasthan,North,Small,2015
+S011,RetailMart Mumbai-11,Mumbai,Maharashtra,West,Large,2020
+S012,RetailMart Ahmedabad-12,Ahmedabad,Gujarat,West,Small,2020
+S013,RetailMart Bangalore-13,Bangalore,Karnataka,South,Medium,2017
+S014,RetailMart Delhi-14,Delhi,Delhi,North,Large,2016
+S015,RetailMart Kolkata-15,Kolkata,West Bengal,East,Large,2019
+S016,RetailMart Lucknow-16,Lucknow,Uttar Pradesh,North,Medium,2024
+S017,RetailMart Mumbai-17,Mumbai,Maharashtra,West,Medium,2021
+S018,RetailMart Kolkata-18,Kolkata,West Bengal,East,Medium,2015
+S019,RetailMart Chennai-19,Chennai,Tamil Nadu,South,Medium,2018
+S020,RetailMart Delhi-20,Delhi,Delhi,North,Large,2015
+S021,RetailMart Bangalore-21,Bangalore,Karnataka,South,Small,2015
+S022,RetailMart Kolkata-22,Kolkata,West Bengal,East,Medium,2015
+S023,RetailMart Lucknow-23,Lucknow,Uttar Pradesh,North,Large,2022
+S024,RetailMart Mumbai-24,Mumbai,Maharashtra,West,Large,2021
+S025,RetailMart Pune-25,Pune,Maharashtra,West,Large,2015
+S026,RetailMart Kolkata-26,Kolkata,West Bengal,East,Medium,2020
+S027,RetailMart Chennai-27,Chennai,Tamil Nadu,South,Medium,2016
+S028,RetailMart Jaipur-28,Jaipur,Rajasthan,North,Medium,2020
+S029,RetailMart Lucknow-29,Lucknow,Uttar Pradesh,North,Small,2015
+S030,RetailMart Hyderabad-30,Hyderabad,Telangana,South,Medium,2023
+S031,RetailMart Jaipur-31,Jaipur,Rajasthan,North,Medium,2016
+S032,RetailMart Lucknow-32,Lucknow,Uttar Pradesh,North,Large,2020
+S033,RetailMart Pune-33,Pune,Maharashtra,West,Small,2015
+S034,RetailMart Pune-34,Pune,Maharashtra,West,Large,2015
+S035,RetailMart Mumbai-35,Mumbai,Maharashtra,West,Small,2015
+S036,RetailMart Ahmedabad-36,Ahmedabad,Gujarat,West,Medium,2015
+S037,RetailMart Jaipur-37,Jaipur,Rajasthan,North,Large,2016
+S038,RetailMart Mumbai-38,Mumbai,Maharashtra,West,Large,2018
+S039,RetailMart Mumbai-39,Mumbai,Maharashtra,West,Small,2021
+S040,RetailMart Hyderabad-40,Hyderabad,Telangana,South,Small,2021
+S041,RetailMart Chennai-41,Chennai,Tamil Nadu,South,Large,2023
+S042,RetailMart Bangalore-42,Bangalore,Karnataka,South,Small,2019
+S043,RetailMart Chennai-43,Chennai,Tamil Nadu,South,Large,2022
+S044,RetailMart Mumbai-44,Mumbai,Maharashtra,West,Small,2017
+S045,RetailMart Pune-45,Pune,Maharashtra,West,Large,2019
+S046,RetailMart Mumbai-46,Mumbai,Maharashtra,West,Medium,2022
+S047,RetailMart Jaipur-47,Jaipur,Rajasthan,North,Large,2022
+S048,RetailMart Chennai-48,Chennai,Tamil Nadu,South,Medium,2022
+S049,RetailMart Lucknow-49,Lucknow,Uttar Pradesh,North,Medium,2017
+S050,RetailMart Kolkata-50,Kolkata,West Bengal,East,Small,2017

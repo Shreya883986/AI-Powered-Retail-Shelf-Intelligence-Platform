@@ -1,0 +1,22 @@
+# Zip datasets
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+venv/
+
+# ML models
+*.pkl
+
+# Power BI
+*.pbix
+
+# Ignore raw datasets only
+datasets/Raw datasets/

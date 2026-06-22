@@ -1,0 +1,501 @@
+sku_id,product_name,brand,category,unit_price
+SKU0256,Lizol Product 256,Lizol,Household,21.78
+SKU0192,Harpic Product 192,Harpic,Household,209.95
+SKU0123,Nivea Product 123,Nivea,Personal Care,421.03
+SKU0096,Doritos Product 96,Doritos,Snacks,60.11
+SKU0272,Modern Product 272,Modern,Bakery,170.44
+SKU0076,Nivea Product 76,Nivea,Personal Care,42.39
+SKU0475,Harvest Gold Product 475,Harvest Gold,Bakery,110.34
+SKU0442,Pepsi Product 442,Pepsi,Beverages,45.7
+SKU0267,Britannia Product 267,Britannia,Dairy,51.75
+SKU0263,Fanta Product 263,Fanta,Beverages,456.52
+SKU0301,Surf Excel Product 301,Surf Excel,Household,181.13
+SKU0422,Amul Product 422,Amul,Dairy,222.65
+SKU0344,Ariel Product 344,Ariel,Household,283.35
+SKU0493,Sprite Product 493,Sprite,Beverages,367.23
+SKU0087,Britannia Product 87,Britannia,Bakery,233.28
+SKU0468,Bingo Product 468,Bingo,Snacks,452.61
+SKU0418,Nivea Product 418,Nivea,Personal Care,108.21
+SKU0234,Bingo Product 234,Bingo,Snacks,120.57
+SKU0147,Pringles Product 147,Pringles,Snacks,69.25
+SKU0496,Harpic Product 496,Harpic,Household,202.26
+SKU0320,Sprite Product 320,Sprite,Beverages,252.05
+SKU0436,Nestle Product 436,Nestle,Dairy,73.28
+SKU0444,Pringles Product 444,Pringles,Snacks,166.88
+SKU0220,Coca Cola Product 220,Coca Cola,Beverages,418.65
+SKU0102,Amul Product 102,Amul,Dairy,467.6
+SKU0421,Nivea Product 421,Nivea,Personal Care,30.88
+SKU0432,Lays Product 432,Lays,Snacks,105.94
+SKU0416,Pears Product 416,Pears,Personal Care,441.77
+SKU0217,Modern Product 217,Modern,Bakery,139.9
+SKU0028,Dettol Product 28,Dettol,Personal Care,393.5
+SKU0307,Surf Excel Product 307,Surf Excel,Household,82.79
+SKU0152,Harvest Gold Product 152,Harvest Gold,Bakery,336.94
+SKU0216,Nivea Product 216,Nivea,Personal Care,406.12
+SKU0052,Dettol Product 52,Dettol,Personal Care,118.05
+SKU0227,Modern Product 227,Modern,Bakery,42.01
+SKU0472,Lux Product 472,Lux,Personal Care,450.3
+SKU0409,Pringles Product 409,Pringles,Snacks,277.2
+SKU0447,Dove Product 447,Dove,Personal Care,280.73
+SKU0464,Modern Product 464,Modern,Bakery,464.76
+SKU0302,Nestle Product 302,Nestle,Dairy,443.35
+SKU0374,Pepsi Product 374,Pepsi,Beverages,66.93
+SKU0349,Harvest Gold Product 349,Harvest Gold,Bakery,185.45
+SKU0022,Mother Dairy Product 22,Mother Dairy,Dairy,263.8
+SKU0122,Harpic Product 122,Harpic,Household,422.52
+SKU0313,Lizol Product 313,Lizol,Household,448.12
+SKU0155,Modern Product 155,Modern,Bakery,151.35
+SKU0254,Bingo Product 254,Bingo,Snacks,295.7
+SKU0395,Lays Product 395,Lays,Snacks,211.89
+SKU0081,Lays Product 81,Lays,Snacks,398.31
+SKU0098,Dettol Product 98,Dettol,Personal Care,365.98
+SKU0012,Ariel Product 12,Ariel,Household,23.5
+SKU0025,Lux Product 25,Lux,Personal Care,355.44
+SKU0368,Bingo Product 368,Bingo,Snacks,160.26
+SKU0252,Harvest Gold Product 252,Harvest Gold,Bakery,105.14
+SKU0120,Harvest Gold Product 120,Harvest Gold,Bakery,488.22
+SKU0379,Amul Product 379,Amul,Dairy,145.2
+SKU0382,Modern Product 382,Modern,Bakery,422.44
+SKU0039,Lux Product 39,Lux,Personal Care,290.65
+SKU0330,Fanta Product 330,Fanta,Beverages,484.22
+SKU0448,Surf Excel Product 448,Surf Excel,Household,336.78
+SKU0110,Dettol Product 110,Dettol,Personal Care,428.28
+SKU0068,Amul Product 68,Amul,Dairy,55.67
+SKU0258,Surf Excel Product 258,Surf Excel,Household,163.55
+SKU0345,Bingo Product 345,Bingo,Snacks,229.48
+SKU0079,Britannia Product 79,Britannia,Dairy,38.58
+SKU0116,Pringles Product 116,Pringles,Snacks,114.53
+SKU0310,Nestle Product 310,Nestle,Dairy,121.74
+SKU0287,Modern Product 287,Modern,Bakery,308.45
+SKU0045,Harpic Product 45,Harpic,Household,23.78
+SKU0091,Bingo Product 91,Bingo,Snacks,361.05
+SKU0446,Lizol Product 446,Lizol,Household,147.29
+SKU0179,Sprite Product 179,Sprite,Beverages,359.82
+SKU0160,Harvest Gold Product 160,Harvest Gold,Bakery,292.15
+SKU0423,Surf Excel Product 423,Surf Excel,Household,369.12
+SKU0326,Britannia Product 326,Britannia,Dairy,439.2
+SKU0431,Dove Product 431,Dove,Personal Care,317.25
+SKU0231,Coca Cola Product 231,Coca Cola,Beverages,469.3
+SKU0032,Britannia Product 32,Britannia,Bakery,215.17
+SKU0488,Lizol Product 488,Lizol,Household,237.88
+SKU0288,Harpic Product 288,Harpic,Household,490.44
+SKU0339,Lays Product 339,Lays,Snacks,333.9
+SKU0441,Harvest Gold Product 441,Harvest Gold,Bakery,123.23
+SKU0198,Surf Excel Product 198,Surf Excel,Household,147.52
+SKU0140,Amul Product 140,Amul,Dairy,130.61
+SKU0341,Doritos Product 341,Doritos,Snacks,234.46
+SKU0277,Kurkure Product 277,Kurkure,Snacks,332.37
+SKU0319,Britannia Product 319,Britannia,Bakery,36.61
+SKU0131,Mother Dairy Product 131,Mother Dairy,Dairy,447.58
+SKU0166,Harpic Product 166,Harpic,Household,141.18
+SKU0362,Fanta Product 362,Fanta,Beverages,205.94
+SKU0466,Fanta Product 466,Fanta,Beverages,201.9
+SKU0303,Harvest Gold Product 303,Harvest Gold,Bakery,308.4
+SKU0024,Fanta Product 24,Fanta,Beverages,439.76
+SKU0415,Lux Product 415,Lux,Personal Care,417.29
+SKU0383,Lux Product 383,Lux,Personal Care,149.07
+SKU0500,Amul Product 500,Amul,Dairy,403.7
+SKU0111,Modern Product 111,Modern,Bakery,206.37
+SKU0414,Fanta Product 414,Fanta,Beverages,438.98
+SKU0433,Pepsi Product 433,Pepsi,Beverages,210.98
+SKU0338,Nestle Product 338,Nestle,Dairy,153.18
+SKU0225,Red Bull Product 225,Red Bull,Beverages,71.47
+SKU0086,Pringles Product 86,Pringles,Snacks,182.83
+SKU0001,Lizol Product 1,Lizol,Household,29.47
+SKU0458,Fanta Product 458,Fanta,Beverages,95.23
+SKU0094,Surf Excel Product 94,Surf Excel,Household,230.85
+SKU0075,Surf Excel Product 75,Surf Excel,Household,368.55
+SKU0180,Lizol Product 180,Lizol,Household,378.8
+SKU0176,Pepsi Product 176,Pepsi,Beverages,212.35
+SKU0100,Pringles Product 100,Pringles,Snacks,408.19
+SKU0318,Dettol Product 318,Dettol,Personal Care,310.29
+SKU0144,Kurkure Product 144,Kurkure,Snacks,63.26
+SKU0121,Pepsi Product 121,Pepsi,Beverages,337.35
+SKU0207,Lays Product 207,Lays,Snacks,187.12
+SKU0048,Mother Dairy Product 48,Mother Dairy,Dairy,369.22
+SKU0308,Dettol Product 308,Dettol,Personal Care,378.2
+SKU0445,Dettol Product 445,Dettol,Personal Care,141.41
+SKU0376,Harvest Gold Product 376,Harvest Gold,Bakery,398.66
+SKU0481,Britannia Product 481,Britannia,Dairy,100.61
+SKU0167,Ariel Product 167,Ariel,Household,211.5
+SKU0109,Dettol Product 109,Dettol,Personal Care,152.81
+SKU0199,Harvest Gold Product 199,Harvest Gold,Bakery,159.99
+SKU0402,Mother Dairy Product 402,Mother Dairy,Dairy,137.87
+SKU0037,Fanta Product 37,Fanta,Beverages,226.19
+SKU0484,Fanta Product 484,Fanta,Beverages,424.5
+SKU0494,Kurkure Product 494,Kurkure,Snacks,250.28
+SKU0298,Kurkure Product 298,Kurkure,Snacks,69.3
+SKU0400,Red Bull Product 400,Red Bull,Beverages,398.04
+SKU0033,Lays Product 33,Lays,Snacks,212.35
+SKU0399,Harvest Gold Product 399,Harvest Gold,Bakery,175.35
+SKU0232,Lux Product 232,Lux,Personal Care,261.3
+SKU0169,Lizol Product 169,Lizol,Household,295.29
+SKU0410,Fanta Product 410,Fanta,Beverages,128.02
+SKU0137,Amul Product 137,Amul,Dairy,276.23
+SKU0128,Pears Product 128,Pears,Personal Care,102.45
+SKU0213,Modern Product 213,Modern,Bakery,28.57
+SKU0440,Doritos Product 440,Doritos,Snacks,403.34
+SKU0315,Pears Product 315,Pears,Personal Care,52.02
+SKU0360,Nestle Product 360,Nestle,Dairy,442.46
+SKU0467,Modern Product 467,Modern,Bakery,29.71
+SKU0008,Ariel Product 8,Ariel,Household,155.67
+SKU0388,Nestle Product 388,Nestle,Dairy,203.05
+SKU0057,Mother Dairy Product 57,Mother Dairy,Dairy,187.2
+SKU0476,Lays Product 476,Lays,Snacks,429.45
+SKU0051,Lays Product 51,Lays,Snacks,352.15
+SKU0255,Ariel Product 255,Ariel,Household,361.88
+SKU0114,Ariel Product 114,Ariel,Household,486.98
+SKU0461,Kurkure Product 461,Kurkure,Snacks,214.41
+SKU0412,Pringles Product 412,Pringles,Snacks,308.19
+SKU0391,Lizol Product 391,Lizol,Household,294.97
+SKU0117,Britannia Product 117,Britannia,Bakery,425.31
+SKU0055,Nestle Product 55,Nestle,Dairy,124.61
+SKU0275,Dettol Product 275,Dettol,Personal Care,415.78
+SKU0159,Sprite Product 159,Sprite,Beverages,102.03
+SKU0101,Fanta Product 101,Fanta,Beverages,260.56
+SKU0359,Lays Product 359,Lays,Snacks,420.05
+SKU0443,Dettol Product 443,Dettol,Personal Care,458.53
+SKU0280,Harpic Product 280,Harpic,Household,95.58
+SKU0085,Bingo Product 85,Bingo,Snacks,491.61
+SKU0016,Fanta Product 16,Fanta,Beverages,199
+SKU0145,Kurkure Product 145,Kurkure,Snacks,37.52
+SKU0489,Harpic Product 489,Harpic,Household,204.72
+SKU0082,Nestle Product 82,Nestle,Dairy,220.04
+SKU0226,Bingo Product 226,Bingo,Snacks,202.68
+SKU0273,Modern Product 273,Modern,Bakery,249.08
+SKU0113,Dove Product 113,Dove,Personal Care,460.76
+SKU0322,Harpic Product 322,Harpic,Household,410.99
+SKU0325,Doritos Product 325,Doritos,Snacks,324.51
+SKU0214,Pears Product 214,Pears,Personal Care,495.91
+SKU0265,Mother Dairy Product 265,Mother Dairy,Dairy,444.9
+SKU0419,Pears Product 419,Pears,Personal Care,235.1
+SKU0257,Mother Dairy Product 257,Mother Dairy,Dairy,62.23
+SKU0142,Coca Cola Product 142,Coca Cola,Beverages,265.02
+SKU0407,Dove Product 407,Dove,Personal Care,441.9
+SKU0135,Lizol Product 135,Lizol,Household,307.38
+SKU0439,Harpic Product 439,Harpic,Household,170.35
+SKU0300,Pears Product 300,Pears,Personal Care,395.96
+SKU0021,Pringles Product 21,Pringles,Snacks,271.89
+SKU0262,Harpic Product 262,Harpic,Household,178.24
+SKU0173,Britannia Product 173,Britannia,Bakery,268.26
+SKU0174,Lays Product 174,Lays,Snacks,327.96
+SKU0194,Lux Product 194,Lux,Personal Care,157.73
+SKU0259,Britannia Product 259,Britannia,Dairy,283.96
+SKU0406,Modern Product 406,Modern,Bakery,74.47
+SKU0170,Coca Cola Product 170,Coca Cola,Beverages,230.6
+SKU0010,Britannia Product 10,Britannia,Dairy,271.41
+SKU0295,Lux Product 295,Lux,Personal Care,87.26
+SKU0150,Lux Product 150,Lux,Personal Care,263.56
+SKU0061,Harpic Product 61,Harpic,Household,420.6
+SKU0015,Britannia Product 15,Britannia,Dairy,421.1
+SKU0026,Mother Dairy Product 26,Mother Dairy,Dairy,139.2
+SKU0229,Surf Excel Product 229,Surf Excel,Household,115.9
+SKU0041,Red Bull Product 41,Red Bull,Beverages,290.75
+SKU0233,Amul Product 233,Amul,Dairy,345.85
+SKU0013,Dove Product 13,Dove,Personal Care,286.45
+SKU0058,Red Bull Product 58,Red Bull,Beverages,191.71
+SKU0240,Surf Excel Product 240,Surf Excel,Household,212.58
+SKU0352,Nivea Product 352,Nivea,Personal Care,159.24
+SKU0156,Fanta Product 156,Fanta,Beverages,145.25
+SKU0050,Sprite Product 50,Sprite,Beverages,107.87
+SKU0020,Harpic Product 20,Harpic,Household,499.25
+SKU0357,Mother Dairy Product 357,Mother Dairy,Dairy,257.41
+SKU0245,Pringles Product 245,Pringles,Snacks,489.14
+SKU0195,Mother Dairy Product 195,Mother Dairy,Dairy,268.03
+SKU0363,Britannia Product 363,Britannia,Dairy,134.77
+SKU0366,Amul Product 366,Amul,Dairy,315.27
+SKU0019,Pepsi Product 19,Pepsi,Beverages,311.11
+SKU0132,Britannia Product 132,Britannia,Bakery,326.36
+SKU0093,Lays Product 93,Lays,Snacks,305.59
+SKU0105,Nivea Product 105,Nivea,Personal Care,53.4
+SKU0370,Nivea Product 370,Nivea,Personal Care,469.75
+SKU0261,Bingo Product 261,Bingo,Snacks,133.85
+SKU0260,Britannia Product 260,Britannia,Bakery,415.45
+SKU0153,Ariel Product 153,Ariel,Household,235.19
+SKU0134,Pringles Product 134,Pringles,Snacks,194.61
+SKU0459,Britannia Product 459,Britannia,Bakery,451.84
+SKU0282,Fanta Product 282,Fanta,Beverages,270.71
+SKU0334,Ariel Product 334,Ariel,Household,298.07
+SKU0069,Modern Product 69,Modern,Bakery,447.48
+SKU0064,Red Bull Product 64,Red Bull,Beverages,204.84
+SKU0281,Sprite Product 281,Sprite,Beverages,475.38
+SKU0062,Nivea Product 62,Nivea,Personal Care,182.64
+SKU0181,Harvest Gold Product 181,Harvest Gold,Bakery,84.59
+SKU0270,Pepsi Product 270,Pepsi,Beverages,385.55
+SKU0193,Pepsi Product 193,Pepsi,Beverages,318.8
+SKU0462,Bingo Product 462,Bingo,Snacks,101.57
+SKU0125,Lizol Product 125,Lizol,Household,331.26
+SKU0157,Ariel Product 157,Ariel,Household,319.09
+SKU0107,Mother Dairy Product 107,Mother Dairy,Dairy,233.57
+SKU0286,Harvest Gold Product 286,Harvest Gold,Bakery,295.57
+SKU0070,Coca Cola Product 70,Coca Cola,Beverages,128.95
+SKU0161,Mother Dairy Product 161,Mother Dairy,Dairy,346.16
+SKU0210,Modern Product 210,Modern,Bakery,488.63
+SKU0250,Pepsi Product 250,Pepsi,Beverages,457.72
+SKU0487,Pears Product 487,Pears,Personal Care,50.58
+SKU0449,Kurkure Product 449,Kurkure,Snacks,170.34
+SKU0427,Bingo Product 427,Bingo,Snacks,464.09
+SKU0478,Britannia Product 478,Britannia,Dairy,245.58
+SKU0047,Red Bull Product 47,Red Bull,Beverages,112.89
+SKU0205,Pringles Product 205,Pringles,Snacks,120.99
+SKU0089,Coca Cola Product 89,Coca Cola,Beverages,215.66
+SKU0350,Bingo Product 350,Bingo,Snacks,317.7
+SKU0095,Pears Product 95,Pears,Personal Care,294.22
+SKU0073,Bingo Product 73,Bingo,Snacks,267.5
+SKU0036,Amul Product 36,Amul,Dairy,114.39
+SKU0148,Pears Product 148,Pears,Personal Care,147.7
+SKU0003,Ariel Product 3,Ariel,Household,46.66
+SKU0151,Britannia Product 151,Britannia,Bakery,127.91
+SKU0063,Dettol Product 63,Dettol,Personal Care,392.63
+SKU0323,Lizol Product 323,Lizol,Household,245.34
+SKU0480,Harvest Gold Product 480,Harvest Gold,Bakery,445.87
+SKU0342,Ariel Product 342,Ariel,Household,357.82
+SKU0222,Harvest Gold Product 222,Harvest Gold,Bakery,43.92
+SKU0219,Ariel Product 219,Ariel,Household,130.3
+SKU0224,Surf Excel Product 224,Surf Excel,Household,381.74
+SKU0011,Ariel Product 11,Ariel,Household,349.71
+SKU0378,Harpic Product 378,Harpic,Household,35.81
+SKU0347,Britannia Product 347,Britannia,Dairy,379.83
+SKU0328,Doritos Product 328,Doritos,Snacks,380.9
+SKU0386,Lux Product 386,Lux,Personal Care,229.88
+SKU0071,Surf Excel Product 71,Surf Excel,Household,446.6
+SKU0430,Lizol Product 430,Lizol,Household,123.54
+SKU0072,Lux Product 72,Lux,Personal Care,457.11
+SKU0027,Harpic Product 27,Harpic,Household,65.88
+SKU0477,Nestle Product 477,Nestle,Dairy,363.98
+SKU0361,Pringles Product 361,Pringles,Snacks,354.14
+SKU0104,Bingo Product 104,Bingo,Snacks,94.78
+SKU0206,Doritos Product 206,Doritos,Snacks,457.25
+SKU0429,Sprite Product 429,Sprite,Beverages,495.57
+SKU0311,Nestle Product 311,Nestle,Dairy,36.79
+SKU0294,Doritos Product 294,Doritos,Snacks,486.7
+SKU0411,Fanta Product 411,Fanta,Beverages,135.3
+SKU0285,Amul Product 285,Amul,Dairy,419.41
+SKU0251,Pringles Product 251,Pringles,Snacks,370.13
+SKU0348,Dove Product 348,Dove,Personal Care,116.7
+SKU0283,Lux Product 283,Lux,Personal Care,113.95
+SKU0139,Britannia Product 139,Britannia,Dairy,348.3
+SKU0274,Pepsi Product 274,Pepsi,Beverages,260.81
+SKU0046,Doritos Product 46,Doritos,Snacks,308.75
+SKU0083,Pepsi Product 83,Pepsi,Beverages,43.66
+SKU0237,Fanta Product 237,Fanta,Beverages,37.31
+SKU0103,Ariel Product 103,Ariel,Household,395
+SKU0077,Modern Product 77,Modern,Bakery,465.43
+SKU0337,Modern Product 337,Modern,Bakery,123.3
+SKU0340,Bingo Product 340,Bingo,Snacks,121.34
+SKU0236,Sprite Product 236,Sprite,Beverages,280.98
+SKU0291,Nestle Product 291,Nestle,Dairy,451.08
+SKU0457,Harpic Product 457,Harpic,Household,335.31
+SKU0108,Britannia Product 108,Britannia,Bakery,408.86
+SKU0202,Kurkure Product 202,Kurkure,Snacks,360.68
+SKU0276,Red Bull Product 276,Red Bull,Beverages,430.62
+SKU0486,Nivea Product 486,Nivea,Personal Care,158.28
+SKU0470,Amul Product 470,Amul,Dairy,248.49
+SKU0133,Sprite Product 133,Sprite,Beverages,65.6
+SKU0403,Amul Product 403,Amul,Dairy,468.48
+SKU0060,Dove Product 60,Dove,Personal Care,106.11
+SKU0381,Surf Excel Product 381,Surf Excel,Household,144.53
+SKU0059,Harpic Product 59,Harpic,Household,137.47
+SKU0377,Britannia Product 377,Britannia,Dairy,32.09
+SKU0196,Mother Dairy Product 196,Mother Dairy,Dairy,380.21
+SKU0115,Ariel Product 115,Ariel,Household,337.86
+SKU0296,Dove Product 296,Dove,Personal Care,400.62
+SKU0247,Harvest Gold Product 247,Harvest Gold,Bakery,448.95
+SKU0372,Dettol Product 372,Dettol,Personal Care,122.38
+SKU0474,Kurkure Product 474,Kurkure,Snacks,389.23
+SKU0343,Doritos Product 343,Doritos,Snacks,76.1
+SKU0215,Dettol Product 215,Dettol,Personal Care,269.85
+SKU0178,Britannia Product 178,Britannia,Bakery,322.77
+SKU0289,Harvest Gold Product 289,Harvest Gold,Bakery,208.68
+SKU0218,Lays Product 218,Lays,Snacks,427.98
+SKU0168,Harpic Product 168,Harpic,Household,308.92
+SKU0004,Doritos Product 4,Doritos,Snacks,342.34
+SKU0471,Harvest Gold Product 471,Harvest Gold,Bakery,497.09
+SKU0452,Harpic Product 452,Harpic,Household,360.62
+SKU0154,Bingo Product 154,Bingo,Snacks,196.09
+SKU0187,Nestle Product 187,Nestle,Dairy,36.64
+SKU0425,Sprite Product 425,Sprite,Beverages,334.89
+SKU0292,Britannia Product 292,Britannia,Dairy,61.58
+SKU0453,Bingo Product 453,Bingo,Snacks,467.35
+SKU0209,Modern Product 209,Modern,Bakery,178.57
+SKU0200,Ariel Product 200,Ariel,Household,358.07
+SKU0146,Kurkure Product 146,Kurkure,Snacks,267.16
+SKU0188,Pringles Product 188,Pringles,Snacks,46.86
+SKU0371,Doritos Product 371,Doritos,Snacks,165.51
+SKU0065,Pringles Product 65,Pringles,Snacks,51.1
+SKU0023,Britannia Product 23,Britannia,Dairy,93.28
+SKU0355,Dettol Product 355,Dettol,Personal Care,29.53
+SKU0248,Pears Product 248,Pears,Personal Care,114.64
+SKU0306,Britannia Product 306,Britannia,Dairy,22.74
+SKU0112,Britannia Product 112,Britannia,Dairy,253.6
+SKU0314,Red Bull Product 314,Red Bull,Beverages,116.21
+SKU0141,Modern Product 141,Modern,Bakery,260.51
+SKU0221,Harpic Product 221,Harpic,Household,418.57
+SKU0268,Dettol Product 268,Dettol,Personal Care,161.09
+SKU0092,Pepsi Product 92,Pepsi,Beverages,178.69
+SKU0067,Coca Cola Product 67,Coca Cola,Beverages,333.87
+SKU0335,Lays Product 335,Lays,Snacks,283.02
+SKU0044,Lays Product 44,Lays,Snacks,125.31
+SKU0499,Nivea Product 499,Nivea,Personal Care,482
+SKU0186,Red Bull Product 186,Red Bull,Beverages,48.31
+SKU0482,Lays Product 482,Lays,Snacks,311.41
+SKU0364,Modern Product 364,Modern,Bakery,71.16
+SKU0417,Sprite Product 417,Sprite,Beverages,336.68
+SKU0373,Harpic Product 373,Harpic,Household,52.31
+SKU0387,Mother Dairy Product 387,Mother Dairy,Dairy,479.91
+SKU0331,Dettol Product 331,Dettol,Personal Care,280.85
+SKU0396,Amul Product 396,Amul,Dairy,46.88
+SKU0191,Harvest Gold Product 191,Harvest Gold,Bakery,204.44
+SKU0038,Lizol Product 38,Lizol,Household,100.05
+SKU0469,Fanta Product 469,Fanta,Beverages,378.48
+SKU0244,Nivea Product 244,Nivea,Personal Care,142.31
+SKU0239,Mother Dairy Product 239,Mother Dairy,Dairy,447.72
+SKU0455,Kurkure Product 455,Kurkure,Snacks,387.96
+SKU0054,Dettol Product 54,Dettol,Personal Care,31.64
+SKU0006,Harpic Product 6,Harpic,Household,384.97
+SKU0203,Lizol Product 203,Lizol,Household,234.05
+SKU0172,Lux Product 172,Lux,Personal Care,469.73
+SKU0136,Dove Product 136,Dove,Personal Care,470.47
+SKU0090,Harvest Gold Product 90,Harvest Gold,Bakery,400.3
+SKU0035,Nivea Product 35,Nivea,Personal Care,349.55
+SKU0479,Red Bull Product 479,Red Bull,Beverages,463.12
+SKU0375,Ariel Product 375,Ariel,Household,199.65
+SKU0490,Modern Product 490,Modern,Bakery,313.42
+SKU0369,Pringles Product 369,Pringles,Snacks,156.2
+SKU0354,Dettol Product 354,Dettol,Personal Care,302.64
+SKU0460,Britannia Product 460,Britannia,Dairy,444.23
+SKU0190,Modern Product 190,Modern,Bakery,363.3
+SKU0450,Lays Product 450,Lays,Snacks,331.8
+SKU0126,Nestle Product 126,Nestle,Dairy,230.59
+SKU0329,Lays Product 329,Lays,Snacks,153.06
+SKU0408,Sprite Product 408,Sprite,Beverages,107.58
+SKU0264,Doritos Product 264,Doritos,Snacks,206.18
+SKU0398,Pringles Product 398,Pringles,Snacks,426.28
+SKU0165,Dettol Product 165,Dettol,Personal Care,405.05
+SKU0413,Bingo Product 413,Bingo,Snacks,261.21
+SKU0278,Modern Product 278,Modern,Bakery,43.21
+SKU0182,Modern Product 182,Modern,Bakery,458.04
+SKU0405,Dettol Product 405,Dettol,Personal Care,134.27
+SKU0420,Britannia Product 420,Britannia,Dairy,82.83
+SKU0106,Lays Product 106,Lays,Snacks,167.24
+SKU0498,Pepsi Product 498,Pepsi,Beverages,359.11
+SKU0279,Pears Product 279,Pears,Personal Care,313.32
+SKU0393,Pears Product 393,Pears,Personal Care,327.1
+SKU0297,Harvest Gold Product 297,Harvest Gold,Bakery,171.67
+SKU0246,Amul Product 246,Amul,Dairy,197.42
+SKU0238,Bingo Product 238,Bingo,Snacks,478.41
+SKU0029,Nestle Product 29,Nestle,Dairy,385.3
+SKU0424,Coca Cola Product 424,Coca Cola,Beverages,302.32
+SKU0434,Amul Product 434,Amul,Dairy,106.95
+SKU0030,Lizol Product 30,Lizol,Household,376.72
+SKU0184,Pringles Product 184,Pringles,Snacks,481.04
+SKU0454,Lizol Product 454,Lizol,Household,481.19
+SKU0332,Amul Product 332,Amul,Dairy,398.74
+SKU0017,Red Bull Product 17,Red Bull,Beverages,296
+SKU0491,Dove Product 491,Dove,Personal Care,64.53
+SKU0018,Ariel Product 18,Ariel,Household,215.19
+SKU0309,Harpic Product 309,Harpic,Household,421.52
+SKU0143,Britannia Product 143,Britannia,Bakery,399.26
+SKU0389,Dove Product 389,Dove,Personal Care,263.62
+SKU0241,Doritos Product 241,Doritos,Snacks,46.68
+SKU0397,Ariel Product 397,Ariel,Household,330.37
+SKU0299,Pringles Product 299,Pringles,Snacks,110.33
+SKU0284,Lizol Product 284,Lizol,Household,237.85
+SKU0437,Lux Product 437,Lux,Personal Care,272.8
+SKU0290,Kurkure Product 290,Kurkure,Snacks,158.05
+SKU0271,Pringles Product 271,Pringles,Snacks,169.05
+SKU0007,Lizol Product 7,Lizol,Household,307.81
+SKU0404,Dove Product 404,Dove,Personal Care,121.78
+SKU0124,Britannia Product 124,Britannia,Bakery,79.27
+SKU0401,Britannia Product 401,Britannia,Dairy,463.74
+SKU0201,Dettol Product 201,Dettol,Personal Care,299.71
+SKU0138,Kurkure Product 138,Kurkure,Snacks,192.56
+SKU0451,Lizol Product 451,Lizol,Household,241.94
+SKU0175,Pringles Product 175,Pringles,Snacks,72.12
+SKU0204,Amul Product 204,Amul,Dairy,412.41
+SKU0365,Britannia Product 365,Britannia,Dairy,343.63
+SKU0253,Doritos Product 253,Doritos,Snacks,455.37
+SKU0428,Pears Product 428,Pears,Personal Care,164.6
+SKU0497,Amul Product 497,Amul,Dairy,486.7
+SKU0034,Red Bull Product 34,Red Bull,Beverages,436.99
+SKU0316,Fanta Product 316,Fanta,Beverages,210.07
+SKU0130,Nivea Product 130,Nivea,Personal Care,113.25
+SKU0171,Coca Cola Product 171,Coca Cola,Beverages,236.93
+SKU0149,Britannia Product 149,Britannia,Bakery,331.16
+SKU0385,Pears Product 385,Pears,Personal Care,272.31
+SKU0228,Surf Excel Product 228,Surf Excel,Household,296.5
+SKU0392,Dove Product 392,Dove,Personal Care,426.76
+SKU0351,Lux Product 351,Lux,Personal Care,242.86
+SKU0056,Doritos Product 56,Doritos,Snacks,127.24
+SKU0327,Red Bull Product 327,Red Bull,Beverages,277.46
+SKU0304,Ariel Product 304,Ariel,Household,267.27
+SKU0099,Britannia Product 99,Britannia,Dairy,349.52
+SKU0084,Ariel Product 84,Ariel,Household,99.27
+SKU0042,Mother Dairy Product 42,Mother Dairy,Dairy,406.84
+SKU0185,Pepsi Product 185,Pepsi,Beverages,465.77
+SKU0002,Britannia Product 2,Britannia,Dairy,468.87
+SKU0465,Lays Product 465,Lays,Snacks,355.61
+SKU0305,Pepsi Product 305,Pepsi,Beverages,90.49
+SKU0040,Pringles Product 40,Pringles,Snacks,134.2
+SKU0080,Dettol Product 80,Dettol,Personal Care,216.53
+SKU0074,Modern Product 74,Modern,Bakery,200.81
+SKU0293,Lays Product 293,Lays,Snacks,407.95
+SKU0269,Doritos Product 269,Doritos,Snacks,250.26
+SKU0009,Britannia Product 9,Britannia,Bakery,219.03
+SKU0005,Harpic Product 5,Harpic,Household,167.01
+SKU0353,Harpic Product 353,Harpic,Household,50.83
+SKU0031,Harvest Gold Product 31,Harvest Gold,Bakery,67.83
+SKU0380,Dove Product 380,Dove,Personal Care,432.1
+SKU0473,Amul Product 473,Amul,Dairy,297.47
+SKU0336,Kurkure Product 336,Kurkure,Snacks,262.59
+SKU0367,Britannia Product 367,Britannia,Bakery,462.01
+SKU0177,Dettol Product 177,Dettol,Personal Care,212.3
+SKU0127,Britannia Product 127,Britannia,Bakery,25.22
+SKU0223,Coca Cola Product 223,Coca Cola,Beverages,468.91
+SKU0164,Ariel Product 164,Ariel,Household,224.97
+SKU0390,Pears Product 390,Pears,Personal Care,406.98
+SKU0358,Lizol Product 358,Lizol,Household,397.39
+SKU0230,Dettol Product 230,Dettol,Personal Care,499.68
+SKU0014,Modern Product 14,Modern,Bakery,79.33
+SKU0456,Kurkure Product 456,Kurkure,Snacks,96.82
+SKU0118,Mother Dairy Product 118,Mother Dairy,Dairy,119.7
+SKU0492,Ariel Product 492,Ariel,Household,138.89
+SKU0321,Harpic Product 321,Harpic,Household,130.18
+SKU0053,Dove Product 53,Dove,Personal Care,115.14
+SKU0435,Doritos Product 435,Doritos,Snacks,382.31
+SKU0197,Harvest Gold Product 197,Harvest Gold,Bakery,75.61
+SKU0049,Ariel Product 49,Ariel,Household,443.58
+SKU0119,Ariel Product 119,Ariel,Household,339.71
+SKU0242,Amul Product 242,Amul,Dairy,351.38
+SKU0317,Modern Product 317,Modern,Bakery,384.46
+SKU0163,Bingo Product 163,Bingo,Snacks,67.52
+SKU0208,Red Bull Product 208,Red Bull,Beverages,263.71
+SKU0312,Pringles Product 312,Pringles,Snacks,383.12
+SKU0243,Britannia Product 243,Britannia,Bakery,390.05
+SKU0438,Doritos Product 438,Doritos,Snacks,153.91
+SKU0158,Surf Excel Product 158,Surf Excel,Household,294.47
+SKU0097,Lizol Product 97,Lizol,Household,160.18
+SKU0333,Pringles Product 333,Pringles,Snacks,383.06
+SKU0384,Lizol Product 384,Lizol,Household,461.26
+SKU0183,Britannia Product 183,Britannia,Bakery,192.23
+SKU0346,Harpic Product 346,Harpic,Household,82.07
+SKU0483,Modern Product 483,Modern,Bakery,53.88
+SKU0189,Nestle Product 189,Nestle,Dairy,172.07
+SKU0463,Red Bull Product 463,Red Bull,Beverages,386.14
+SKU0211,Coca Cola Product 211,Coca Cola,Beverages,304.58
+SKU0426,Red Bull Product 426,Red Bull,Beverages,97.1
+SKU0356,Harvest Gold Product 356,Harvest Gold,Bakery,405.07
+SKU0324,Harvest Gold Product 324,Harvest Gold,Bakery,171.17
+SKU0249,Britannia Product 249,Britannia,Dairy,141.45
+SKU0266,Harvest Gold Product 266,Harvest Gold,Bakery,233.24
+SKU0212,Pears Product 212,Pears,Personal Care,404.17
+SKU0078,Nestle Product 78,Nestle,Dairy,20.45
+SKU0043,Harpic Product 43,Harpic,Household,424.2
+SKU0088,Doritos Product 88,Doritos,Snacks,398.88
+SKU0162,Harpic Product 162,Harpic,Household,275.67
+SKU0485,Sprite Product 485,Sprite,Beverages,134.05
+SKU0066,Fanta Product 66,Fanta,Beverages,172.96
+SKU0495,Modern Product 495,Modern,Bakery,95.79
+SKU0129,Lizol Product 129,Lizol,Household,369.25
+SKU0394,Kurkure Product 394,Kurkure,Snacks,427.97
+SKU0235,Harvest Gold Product 235,Harvest Gold,Bakery,52.98
