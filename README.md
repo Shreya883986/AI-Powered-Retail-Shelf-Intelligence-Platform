@@ -275,6 +275,51 @@ Classifies inventory into:
 
 ---
 
+---
+
+# 🐳 Docker Deployment
+
+The FastAPI application has been containerized using Docker, enabling consistent deployment across different environments without requiring manual dependency installation.
+
+Docker ensures that the application runs identically on any machine with Docker installed, making deployment, testing, and scalability easier.
+
+## Docker Image Build
+
+```bash
+docker build -t retail-shelf-app .
+```
+
+## Run Docker Container
+
+```bash
+docker run -p 8000:8000 retail-shelf-app
+```
+
+## Access FastAPI API
+
+```text
+http://localhost:8000/docs
+```
+
+## Docker Container
+
+![Docker Container](screenshots/docker/docker_container.png)
+
+## Docker Images
+
+![Docker Images](screenshots/docker/docker_images.png)
+
+### Docker Benefits
+
+* Consistent Development Environment
+* Easy Deployment
+* Simplified Dependency Management
+* Platform Independence
+* Improved Scalability
+* Faster Application Setup
+
+---
+
 # 🗄️ Data Warehouse
 
 The project follows dimensional modeling principles.
