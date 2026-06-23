@@ -301,14 +301,6 @@ docker run -p 8000:8000 retail-shelf-app
 http://localhost:8000/docs
 ```
 
-## Docker Container
-
-![Docker Container](screenshots/docker/docker_container.png)
-
-## Docker Images
-
-![Docker Images](screenshots/docker/docker_images.png)
-
 ### Docker Benefits
 
 * Consistent Development Environment
